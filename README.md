@@ -67,5 +67,4 @@ streamlit run app.py
 
 ## Author
 
-Ayush,
-Developed as an AI-powered application to demonstrate LLM integration, prompt engineering, and document-based question answering.
+Ayush. Developed as an AI-powered application to demonstrate LLM integration, prompt engineering, and document-based question answering.
