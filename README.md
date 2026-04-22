@@ -30,6 +30,18 @@ pip install streamlit groq PyPDF2
 
 ---
 
+## Environment Variables
+
+Create a `.env` file in the root directory and add:
+
+```
+GROQ_API_KEY=your_api_key_here
+```
+
+This is required to securely access the Groq API.
+
+---
+
 ## Run the App
 
 ```bash
